@@ -7,7 +7,7 @@ tags:
   - embodied-ai
   - sim-to-real
   - world-models
-source: "[[Aligning Cyber Space with Physical World--A Comprehensive Survey on Embodied AI|Embodied AI Survey Notes]]"
+source: "[[Aligning Cyber Space with Physical World — Embodied AI Survey|Embodied AI Survey Notes]]"
 ---
 
 # Sim-to-Real Adaptation

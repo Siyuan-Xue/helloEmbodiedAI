@@ -30,4 +30,4 @@ Embodied agents connect perception, task decomposition, action planning, memory,
 
 - [[10_Areas/VLA Robot Foundation Models]]
 - [[10_Areas/World Models Sim2Real Evaluation]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/05 Embodied Agent]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/05 Embodied Agent]]

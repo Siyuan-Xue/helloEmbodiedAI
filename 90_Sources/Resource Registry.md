@@ -22,7 +22,7 @@ This is the curated entry point for imported resources. Machine-generated import
 
 | ID | Title | Type | Area | Source | Status | Destination |
 | --- | --- | --- | --- | --- | --- | --- |
-| `paper-aligning-cyber-space` | [[30_Literature_Notes/Aligning Cyber Space with Physical World--A Comprehensive Survey on Embodied AI|Aligning Cyber Space with Physical World]] | survey | perception/interaction/agent/sim2real/world-model/platform | hcplab | core | Zotero collection `Embodied AI/00 Surveys` + Obsidian paper note |
+| `paper-aligning-cyber-space` | [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey|Aligning Cyber Space with Physical World]] | survey | perception/interaction/agent/sim2real/world-model/platform | hcplab | core | Zotero collection `Embodied AI/00 Surveys` + Obsidian paper note |
 | `source-hcplab` | [HCPLab-SYSU/Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) | note | platform/perception/interaction/agent/sim2real | hcplab | inbox | source stream |
 | `source-zchoi` | [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) | note | agent/vla/world-model/platform | zchoi | inbox | source stream |
 | `source-milkclouds` | [MilkClouds/awesome-vla-study](https://github.com/MilkClouds/awesome-vla-study) | note | vla/foundation/agent | milkclouds | inbox | source stream |

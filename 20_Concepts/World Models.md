@@ -17,7 +17,7 @@ World models represent how environments evolve under actions. In embodied AI, th
 
 - Area: [[10_Areas/World Models Sim2Real Evaluation]]
 - VLA: [[10_Areas/VLA Robot Foundation Models]]
-- Survey: [[30_Literature_Notes/Aligning Cyber Space with Physical World--A Comprehensive Survey on Embodied AI]]
+- Survey: [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey]]
 
 ## Open Questions
 

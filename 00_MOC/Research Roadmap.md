@@ -13,7 +13,7 @@ This roadmap turns the resource graph into a learning sequence. It favors concep
 
 ## Phase 0: Global Frame
 
-- Read the core survey: [[30_Literature_Notes/Aligning Cyber Space with Physical World--A Comprehensive Survey on Embodied AI|Aligning Cyber Space with Physical World]].
+- Read the core survey: [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey|Aligning Cyber Space with Physical World]].
 - Build the mental split between [[10_Areas/Perception and Grounding|perception]], [[10_Areas/Interaction Manipulation Tactile|interaction]], [[10_Areas/Agents Planning and Memory|agents]], and [[10_Areas/World Models Sim2Real Evaluation|sim-to-real/world models]].
 - Use HCPLab-SYSU as the first taxonomy source.
 

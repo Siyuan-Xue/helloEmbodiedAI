@@ -47,15 +47,15 @@ created: 2026-07-07
 
 ## Module Map
 
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/00 Introduction and Framework|00 Introduction and Framework]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/01 Embodied Robots|01 Embodied Robots]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/02 Embodied Simulators|02 Embodied Simulators]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/03 Embodied Perception|03 Embodied Perception]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/04 Embodied Interaction|04 Embodied Interaction]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/05 Embodied Agent|05 Embodied Agent]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/06 Sim-to-Real Adaptation|06 Sim-to-Real Adaptation]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/07 Challenges and Future Directions|07 Challenges and Future Directions]]
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/Vocabulary|Vocabulary]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/00 Introduction and Framework|00 Introduction and Framework]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/01 Embodied Robots|01 Embodied Robots]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/02 Embodied Simulators|02 Embodied Simulators]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/03 Embodied Perception|03 Embodied Perception]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/04 Embodied Interaction|04 Embodied Interaction]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/05 Embodied Agent|05 Embodied Agent]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/06 Sim-to-Real Adaptation|06 Sim-to-Real Adaptation]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/07 Challenges and Future Directions|07 Challenges and Future Directions]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/Vocabulary|Vocabulary]]
 
 ## Graph Links
 
@@ -86,4 +86,4 @@ created: 2026-07-07
 
 ## Reading Index
 
-Start with [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/00 Introduction and Framework|Introduction and Framework]] for the conceptual hierarchy, then move through the survey modules in order. Use [[30_Literature_Notes/Aligning Cyber Space with Physical World - Embodied AI Survey/Vocabulary|Vocabulary]] as the word bank collected from the paper.
+Start with [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/00 Introduction and Framework|Introduction and Framework]] for the conceptual hierarchy, then move through the survey modules in order. Use [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey/Vocabulary|Vocabulary]] as the word bank collected from the paper.

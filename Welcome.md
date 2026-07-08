@@ -23,4 +23,4 @@ Start here:
 
 Current core note:
 
-- [[30_Literature_Notes/Aligning Cyber Space with Physical World--A Comprehensive Survey on Embodied AI|Aligning Cyber Space with Physical World]]
+- [[30_Literature_Notes/Aligning Cyber Space with Physical World — Embodied AI Survey|Aligning Cyber Space with Physical World]]
