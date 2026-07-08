@@ -1,0 +1,30 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime, logs, and temporary files
+*.log
+tmp/
+.cache/
+
+# Source PDFs and bulky research artifacts
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Obsidian local workspace state
+.obsidian/workspace*.json

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organize Paper Notes"
+  short_description: "Refine paper notes for this Obsidian vault"
+  default_prompt: "Use $organize-paper-notes to organize my paper reading notes."
